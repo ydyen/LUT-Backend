@@ -22,6 +22,7 @@ ___
 - NodeJS
     1. [Video Tutorial](https://www.youtube.com/watch?v=7YcW25PHnAA)
     2. Learning Diary
+    3. Material: app.js, server.js, package.json, index.html and server2.js files 
 - MongoDB
     1. [Video Tutorial]()
     2. Learning Diary
@@ -45,4 +46,4 @@ git clone url_link
 ___
 ## License
 
-[© Danny Y. Yen.](../LICENSE)
+[© Danny Y. Yen - May 17 2020](../LICENSE)
