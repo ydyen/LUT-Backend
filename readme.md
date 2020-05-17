@@ -38,7 +38,7 @@ ___
 ## **Install**
 - Copy the master project with git clone
 
-__
+___
 ## License
 
 [© Danny Y. Yen.](../LICENSE)
