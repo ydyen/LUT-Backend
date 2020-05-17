@@ -2,11 +2,11 @@
 
 ## **Background**
 This course provides the learning materials for backend skills for the following stacks:
-- JavaScript
-- NodeJS
-- MongoDB
-- Express
-- Rest-API
+:white_check_mark: JavaScript 
+:white_check_mark: NodeJS
+:white_check_mark: MongoDB
+:white_check_mark: Express
+:white_check_mark: Rest-API
 
 Each learning material has 4 mandatory exercises, learning diary, exercise, readme file, and a video of the final project. 
 The course is free and is available for all students studying in a university in Finland and open for all adult learners.
@@ -15,8 +15,8 @@ ___
 
 ## Table of Contents
 
-- Introduction to Rest Api
-    1. [Video Tutorial](https://www.youtube.com/watch?v=7YcW25PHnAA)
+- Introduction to Rest Api 
+    1. [Video Tutorial](https://www.youtube.com/watch?v=7YcW25PHnAA) 
     2. Learning Diary
     3. Material: Simple Cat Facts Api Call from [ © Alex wohlbruck](https://cat-fact.herokuapp.com)
 - NodeJS
@@ -36,7 +36,11 @@ ___
     2. Learning Diary
 ___
 ## **Install**
-- Copy the master project with git clone
+- Copy the root project link to your local repository 
+```
+git clone url_link 
+
+```
 
 ___
 ## License
