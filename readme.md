@@ -2,11 +2,11 @@
 
 ## **Background**
 This course provides the learning materials for backend skills for the following stacks:
-:white_check_mark: JavaScript 
-:white_check_mark: NodeJS
-:white_check_mark: MongoDB
-:white_check_mark: Express
-:white_check_mark: Rest-API
+- :white_check_mark: JavaScript 
+- :white_check_mark: NodeJS
+- :white_check_mark: MongoDB
+- :white_check_mark: Express
+- :white_check_mark: Rest-API
 
 Each learning material has 4 mandatory exercises, learning diary, exercise, readme file, and a video of the final project. 
 The course is free and is available for all students studying in a university in Finland and open for all adult learners.
