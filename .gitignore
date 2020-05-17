@@ -4,9 +4,6 @@
 ### Any Config files
 *config
 
-# Created by https://www.gitignore.io/api/images
-# Edit at https://www.gitignore.io/?templates=images
-
 ### Images ###
 # JPEG
 *.jpg
@@ -24,23 +21,7 @@
 *.jpm
 *.mj2
 
-# JPEG XR
-*.jxr
-*.hdp
-*.wdp
-
 # Portable Network Graphics
 *.png
 
-# BMP
-*.bmp
-*.dib
 
-# ICO
-*.ico
-
-# 3D Images
-*.3dm
-*.max
-
-# End of https://www.gitignore.io/api/images
