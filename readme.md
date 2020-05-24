@@ -24,8 +24,9 @@ ___
     2. Learning Diary
     3. Material: app.js, server.js, package.json, index.html and server2.js files 
 - MongoDB
-    1. [Video Tutorial]()
+    1. [Video Tutorial](https://www.youtube.com/watch?v=-56x56UppqQ&t=226s)
     2. Learning Diary
+    3. Material: readme.md, material.js, app.js
 - Express
     1. [Video Tutorial]()
     2. Learning Diary
