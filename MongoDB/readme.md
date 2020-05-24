@@ -4,7 +4,7 @@ ___
 ## **Background**
 This tutorial provides a basic overview of read, write, delete and update for MongoDB.
 The code along learning for the tutorial is here.
-In addition, two files were created to test the connection for mongodb via local and cloud.
+In addition, two files were created to test the connection for mongodb via local and mongoose driver.
 Material.js file provides the code for connecting in the local drive.
 App.js file provides a connection with mongoose to the MongoDB Atlas account.
 ___

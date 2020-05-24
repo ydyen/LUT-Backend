@@ -5,7 +5,6 @@ const URI = "mongodb://localhost:27017/";
 
 //connects to mongodb
 try {
-    setTimeout(function () {
         mongoose.connect(URI, {
             useNewUrlParser: true,
             useUnifiedTopology: true,
@@ -14,9 +13,8 @@ try {
         })
             .then(() => console.log("DB is running"))
             .catch(err => err);
-    }, 60000);
 
 } catch (error) {
-    handleError(error)
+    console.log(error);
 }
 
