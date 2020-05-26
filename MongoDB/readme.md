@@ -16,12 +16,12 @@ Install mongodb to your local drive
 - [MongoDB For macOS](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
     - [Additional Info for macOS](https://treehouse.github.io/installation-guides/mac/mongo-mac.html)
 
-Install the node module
-- `npm install mongodb`
-- `npm install mongoose`
+Install the node module mongodb and mongoose
+- `npm install`
 
 Run the command
 - `node app.js`
+- `node material.js`
 
 Coding along commands
 ```
