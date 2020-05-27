@@ -28,8 +28,9 @@ ___
     2. Learning Diary
     3. Material: readme.md, material.js, app.js
 - Express
-    1. [Video Tutorial]()
+    1. [Video Tutorial](https://www.youtube.com/watch?v=gnsO8-xJ8rs)
     2. Learning Diary
+    3. Material: app.js, index.ejs, header.ejs, footer.ejs, and main.ejs
 - Rest-API
     1. [Video Tutorial]()
     2. Learning Diary
