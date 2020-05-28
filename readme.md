@@ -32,8 +32,9 @@ ___
     2. Learning Diary
     3. Material: app.js, index.ejs, header.ejs, footer.ejs, and main.ejs
 - Rest-API
-    1. [Video Tutorial]()
+    1. [Video Tutorial](https://www.youtube.com/watch?v=eB9Fq9I5ocs&t=2251s)
     2. Learning Diary
+    3. Material: Bookstore directory with book.js, genre.js index.js
 - Project
     1. [Video of the final project]()
     2. Learning Diary
